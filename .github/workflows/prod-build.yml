@@ -1,4 +1,4 @@
-name: Dev-build
+name: PROD-build
 
 on:
   pull_request:
